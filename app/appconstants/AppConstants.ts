@@ -1,0 +1,5 @@
+export const Constants={
+      API_KEY:'452ab3752c48b0c5b9046c2903b68020',
+    ACCESS_JETON:'eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiI0NTJhYjM3NTJjNDhiMGM1YjkwNDZjMjkwM2I2ODAyMCIsInN1YiI6IjY2M2QzYmMxYjQ2YzEwZjI5NWE5YTdiNiIsInNjb3BlcyI6WyJhcGlfcmVhZCJdLCJ2ZXJzaW9uIjoxfQ.2vKIh0H-LmN8J5bF_WGIDKuUSzMDOrbd9xmzLcZWGUE',
+    IMAGE_URL: 'https://image.tmdb.org/t/p/w342'
+}
